@@ -5,7 +5,8 @@ The Attogram Shared Media Project is a set of PHP packages for working with Free
 ## Shared Media Tagger
 * url: https://github.com/attogram/shared-media-tagger
 * about: Ratings website creator for images and media files, fed from administrator curated media from Wikimedia Commons.
-* status: v0.7 - Proof of concept
+* status: v0.7
+* packages: None.  *Proof of concept only.*
 * Demo: http://fosiper.com/smt/
 
 ## Shared Media API
