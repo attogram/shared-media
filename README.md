@@ -14,7 +14,7 @@ The Attogram Shared Media Project is a set of PHP packages for working with Free
 
 ## Shared Media ORM
 * url: https://github.com/attogram/shared-media-orm
-* about: Database Object Relational Model (ORM) for shared-media-api
+* about: Database Object-relational mapping (ORM) for shared-media-api
 * status: v1.0
 
 ## Shared Media Sandbox
