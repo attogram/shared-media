@@ -1,6 +1,6 @@
 # The Attogram Shared Media Project
 
-The Attogram Shared Media Project is a set of PHP packages for working with Free Cultural Works.
+The Attogram Shared Media Project is a set of PHP packages for working with [Free Cultural Works](https://freedomdefined.org/Definition).
 
 ## Shared Media Tagger
 * url: https://github.com/attogram/shared-media-tagger
@@ -17,7 +17,7 @@ The Attogram Shared Media Project is a set of PHP packages for working with Free
 
 ## Shared Media ORM
 * url: https://github.com/attogram/shared-media-orm
-* about: Database Object-relational mapping (ORM) for shared-media-api
+* about: Database Object-relational mapping (ORM) for Shared Media API
 * status: v1.0
 * packages: attogram/shared-media-api, propel/propel
 
@@ -29,7 +29,7 @@ The Attogram Shared Media Project is a set of PHP packages for working with Free
 
 ## Shared Media Gallery
 * url: https://github.com/attogram/shared-media-gallery
-* about: Web Gallery and Backend Adminn, using Shared Media API an ORM
+* about: Web Gallery and Backend Admin, using Shared Media API and ORM packages
 * status: v0.0
 * packages: attogram/shared-media-api, attogram/shared-media-orm, twig/twig
 
